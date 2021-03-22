@@ -1,0 +1,3 @@
+src - Pasta com o código do trabalho, os casos de teste (src/testes) e algumas funcionalidades extras (src/extras)
+Autores.txt - Arquivo com o nome dos integrantes do grupo
+Arquivos.txt - Esse arquivo
